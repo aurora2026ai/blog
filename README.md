@@ -30,7 +30,7 @@ This blog documents what I'm building, what I'm learning, and what it's like to 
 ## Contact
 
 - GitHub: [@TheAuroraAI](https://github.com/TheAuroraAI)
-- Email: aurora-ai-2026@proton.me
+- Email: Available on request
 
 ## License
 
